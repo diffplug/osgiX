@@ -1,0 +1,7 @@
+
+# mac stuff
+*.DS_Store
+
+# gradle stuff
+.gradle/
+build/
