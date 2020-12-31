@@ -22,6 +22,7 @@ This project provides extension bundles for the following packages:
 
 * `sun.misc` ([MavenCentral](http://search.maven.org/#artifactdetails%7Ccom.diffplug.osgi%7Ccom.diffplug.osgi.extension.sun.misc%7C0.0.0%7Cjar))
 * `sun.reflect` ([MavenCentral](http://search.maven.org/#artifactdetails%7Ccom.diffplug.osgi%7Ccom.diffplug.osgi.extension.sun.reflect%7C0.0.0%7Cjar))
+* `com.sun.net.httpserver` ([MavenCentral](http://search.maven.org/#artifactdetails%7Ccom.diffplug.osgi%7Ccom.diffplug.osgi.extension.com.sun.net.httpserver%7C0.0.0%7Cjar))
 
 They are available on MavenCentral at coordinates following this convention:
 
